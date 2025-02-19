@@ -30,7 +30,8 @@ function App() {
           <button className='btn btn-primary'>Click</button>
         </div>
       </div>
-    </div> */
+    </div> 
+  */
     <div>
       <Home />
       <About />
