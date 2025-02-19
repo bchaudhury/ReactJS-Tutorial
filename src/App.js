@@ -1,6 +1,9 @@
 /* import logo from './logo.svg';
 import './App.css'; */
 import React from 'react';
+import Home from './Components/Pages/Home';
+import About from './Components/Pages/About';
+import Contact from './Components/Pages/Contact';
 
 function App() {
   return (
@@ -20,13 +23,18 @@ function App() {
           Learn React
         </a>
       </header>
-    </div> */
+    </div>
     <div className='container'>
       <div class = 'card shadow'>
         <div class = 'card-body'>
           <button className='btn btn-primary'>Click</button>
         </div>
       </div>
+    </div> */
+    <div>
+      <Home />
+      <About />
+      <Contact />
     </div>
   );
 }
