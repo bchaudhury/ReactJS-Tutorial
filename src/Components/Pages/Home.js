@@ -5,7 +5,7 @@ function Home() {
         <div className='container'>
             <div class = 'card mt-4'>
                 <div class = 'card-body'>
-                    <h2>Home Page</h2>
+                    <h2>Home</h2>
                     <p>Welcome to Home page</p>
                 </div>
             </div>
