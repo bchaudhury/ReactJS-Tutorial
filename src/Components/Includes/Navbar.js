@@ -3,7 +3,7 @@ import {Link} from "react-router-dom";
 
 function Nevbar() {
     return (
-        <nav class="navbar navbar-expand-rg navbar-light bg-light">
+        <nav class="navbar navbar-dark bg-dark shadow-sm">
 
         <div class="container-fluid">
             
