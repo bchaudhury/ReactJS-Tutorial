@@ -1,5 +1,5 @@
-/* import logo from './logo.svg';
-import './App.css'; */
+// /* import logo from './logo.svg';
+import './App.css';
 import React from 'react';
 import Navbar from './Components/Includes/Navbar';
 import Home from './Components/Pages/Home';

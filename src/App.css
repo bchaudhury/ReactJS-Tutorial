@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,37 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.section {
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white; */
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.main-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.main-heading {
+  font-size: 26px;
+  color : #fb6169;
+}
+
+.underline {
+  height: 0.5px;
+  width: 4rem;
+  background-color: #053b81;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bg-c-light {
+  background-color: #f1f1f1;
 }
