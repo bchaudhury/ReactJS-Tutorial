@@ -34,7 +34,7 @@ function Footer() {
             <div className="container p-3">
                 <div className="row">
                     <div className="col-md-12 text-center">
-                        <p className="text-info">
+                        <p className="text-info text-center p-3 border-top border-bottom">
                             &copy; 2025 Dummy Company. All Rights Reserved.
                         </p>
                     </div>
