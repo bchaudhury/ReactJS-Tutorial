@@ -69,3 +69,8 @@
 .bg-c-light {
   background-color: #f1f1f1;
 }
+
+p {
+  font-size: 14px;
+  color: #1507da;
+}
